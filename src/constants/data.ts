@@ -55,7 +55,7 @@ export const PRODUCTS = [
     description: "شاشة 6.1 بوصة، معالج A17، كاميرا 48 ميجابكسل",
     price: 45000,
     oldPrice: 48000,
-    image: "https://picsum.photos/seed/iphone/400/400"
+    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
   },
   {
     id: "samsung-s24",
@@ -64,7 +64,7 @@ export const PRODUCTS = [
     description: "شاشة 6.8 بوصة، كاميرا 200 ميجابكسل، قلم S-Pen",
     price: 42000,
     oldPrice: 45000,
-    image: "https://picsum.photos/seed/samsung/400/400"
+    image: "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
   },
   {
     id: "fast-charger-20w",
@@ -73,7 +73,7 @@ export const PRODUCTS = [
     description: "يدعم الشحن السريع PD لمختلف الأجهزة",
     price: 350,
     oldPrice: 500,
-    image: "https://picsum.photos/seed/charger/400/400"
+    image: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80"
   },
   {
     id: "wireless-earbuds",
@@ -82,7 +82,7 @@ export const PRODUCTS = [
     description: "بطارية تدوم 20 ساعة مع عزل ضوضاء",
     price: 800,
     oldPrice: 1200,
-    image: "https://picsum.photos/seed/earphones/400/400"
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
   },
   {
     id: "silicone-case",
@@ -91,7 +91,7 @@ export const PRODUCTS = [
     description: "حماية كاملة مع ملمس ناعم بألوان متعددة",
     price: 200,
     oldPrice: null,
-    image: "https://picsum.photos/seed/case/400/400"
+    image: "https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=80"
   }
 ];
 
