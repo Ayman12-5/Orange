@@ -45,14 +45,14 @@ export default function Home() {
               className="hidden lg:block relative"
             >
               <div className="aspect-[4/3] rounded-[20px] bg-gradient-to-tr from-primary/10 to-black/5 absolute inset-0"></div>
-              <div className="relative z-10 w-full h-[300px] rounded-[20px] shadow-sm border-2 border-dashed border-gray-300 flex items-center justify-center text-gray-400 font-bold italic bg-[#dddddd]/20 overflow-hidden">
-                <img 
-                  src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80"
-                  alt="Smartphone Deals" 
-                  className="absolute inset-0 w-full h-full object-cover opacity-90 mix-blend-multiply"
-                  referrerPolicy="no-referrer"
-                />
-              </div>
+             <div className="relative z-10 w-full h-[300px] rounded-[20px] shadow-sm border-2 border-dashed border-gray-300 flex items-center justify-center text-gray-400 font-bold italic bg-[#dddddd]/20 overflow-hidden">
+  <img 
+    src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80"
+    alt="Smartphone Deals" 
+    className="absolute inset-0 w-full h-full object-cover opacity-90 mix-blend-multiply"
+    referrerPolicy="no-referrer"
+  />
+</div>
             </motion.div>
           </div>
         </div>
