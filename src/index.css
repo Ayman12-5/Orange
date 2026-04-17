@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-arabic: 'Tahoma', Arial, "Tajawal", system-ui, -apple-system, sans-serif;
+  --color-primary: #FF6600;
+  --color-primary-dark: #cc5200;
+  
+  --shadow-sm: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-lg: 0 4px 15px rgba(255, 102, 0, 0.3);
+  --shadow-xl: 0 8px 24px rgba(0,0,0,0.12);
+  
+  --radius-3xl: 16px;
+  --radius-2xl: 16px;
+  --radius-xl: 16px;
+}
+
+body {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  background-color: #FFFFFF;
+}
